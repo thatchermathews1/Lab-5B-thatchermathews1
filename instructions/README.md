@@ -1,3 +1,5 @@
+:)
+
 # Lab 5B - Vue.js Front-End App
 
 As with all labs, you should read the instructions to the end before getting started.
