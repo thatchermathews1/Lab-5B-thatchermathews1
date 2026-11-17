@@ -3,6 +3,7 @@ import vue from '@vitejs/plugin-vue'
 import vuetify from 'vite-plugin-vuetify'
 
 export default defineConfig({
+  base: '/Lab-5B-thatchermathews1/',
   plugins: [
     vue(),
     vuetify({ autoImport: true }),
